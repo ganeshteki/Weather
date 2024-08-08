@@ -99,7 +99,7 @@ const WeatherWidget = () => {
 
   return (
     <div style={{ textAlign: 'center', maxWidth: '300px', margin: '0 auto' }}>
-      <h1 style={styles.heading}>Weather Report</h1>
+      <h1 style={styles.heading}>WEATHER REPORT</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
